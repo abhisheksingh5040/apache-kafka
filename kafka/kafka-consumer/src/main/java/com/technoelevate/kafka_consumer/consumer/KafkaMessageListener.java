@@ -1,4 +1,4 @@
-package com.technoelavte.kafka_consumer.consumer;
+package com.technoelevate.kafka_consumer.consumer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

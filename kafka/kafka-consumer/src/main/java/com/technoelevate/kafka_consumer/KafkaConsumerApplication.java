@@ -1,4 +1,4 @@
-package com.technoelavte.kafka_consumer;
+package com.technoelevate.kafka_consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
